@@ -1,0 +1,22 @@
+{
+  "name": "bootstrapresponsive",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/issaxite/bootstrapResponsive.git"
+  },
+  "keywords": [
+    "responsive"
+  ],
+  "author": "issac_宝华",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/issaxite/bootstrapResponsive/issues"
+  },
+  "homepage": "https://github.com/issaxite/bootstrapResponsive#readme"
+}
